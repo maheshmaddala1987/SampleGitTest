@@ -7,6 +7,11 @@ public class Hello2 {
 		
 	}
 	
+	private void Syso() {
+		// TODO Auto-generated method stub
+
+	}
+	
 	public static int sum(int num1 ,int num2)
 	{
 		return num1+num2;
